@@ -10,3 +10,10 @@
 ~Harish Strikethrough~
 
 >this is quoted test
+
+
+```
+for added text in block
+or here we can add block of code
+it appears as block
+```
