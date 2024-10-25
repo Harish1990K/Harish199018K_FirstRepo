@@ -4,3 +4,7 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+**Harish in bold**
+*Harish in italic*
+~Harish Strikethrough~
